@@ -46,5 +46,5 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/FR8ST7/FR8ST7/output/snake.svg)
+<img src="https://raw.githubusercontent.com/FR8ST7/FR8ST7/output/snake.svg" alt="Snake animation" />
 
